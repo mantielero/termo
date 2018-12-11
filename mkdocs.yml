@@ -8,7 +8,7 @@ theme:
 
 nav:
   - Termodinámica:
-    - Introducción: termodinamica.md
+    - Introducción: index.md
     - Conceptos: conceptos.md
     - Propiedades:
       - Introducción: propiedades.md
