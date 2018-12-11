@@ -9,7 +9,9 @@ Sirve para ver:
 - cómo se puede utilizar la capacidad de transformación de la energía en el diseño de máquinas útiles.
 
 
-!!! warning Mover de aquí
+!!! warning
+    Mover de aquí
+    
     En el estudio de la termodinámica se considerará:
 
     - cómo son afectadas las propiedades de un sistema por las interacciones que modifican su energía
