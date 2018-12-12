@@ -11,7 +11,7 @@ Sirve para ver:
 
 !!! warning
     Mover de aquí
-    
+
     En el estudio de la termodinámica se considerará:
 
     - cómo son afectadas las propiedades de un sistema por las interacciones que modifican su energía

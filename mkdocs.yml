@@ -13,14 +13,19 @@ nav:
     - Propiedades:
       - Introducción: propiedades.md
       - Presión: presion.md
+      - Densidad y volumen específico: densidad.md
+      - Temperatura (Principio Cero): temperatura.md
     - Estado: estado.md
     - Proceso: proceso.md
     - Fase: fase.md
     - Equilibrio: equilibrio.md
 
   - Primera Ley de la Termodinámica:
+    - Resumen: 1st_resumen.md
     - Introducción: 1st_intro.md
+    - Postulado de Estado - Sistemas simples: 1st_postulado_de_estado.md
     - Aplicaciones:
+        - Sistemas Cerrados: 1st_sistemas_cerrados.md
         - Ciclos:
             - Carnot: 1st_ciclo_carnot.md
 
