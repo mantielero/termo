@@ -27,7 +27,7 @@ Recíprocamente, si la variación en el valor de una magnitud es independiente d
 Consecuentemente, si el cambio en el valor de una magnitud depende de los detalles del proceso y no solamente de los estado extremos, la mencionada magnitud no es una propiedad termodinámica.
 
 
-### Ciclo termodinámico
+## Ciclo termodinámico
 Entre los diversos procesos que puede experimentar un sistema, tiene especial interés el ciclo termodinámico.
 
 Se define el ciclo termodinámico como la secuencia de procesos experimentados por un sistema de forma que comienza y termina en el mismo estado.
