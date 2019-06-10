@@ -1,5 +1,3 @@
-# Termodinámica
-## ¿Qué es la termodinámica?
 Es una ciencia en la que mediante una serie de conceptos y métodos nos permite discernir en qué casos un determinado sistema puede alcanzar el objetivo para el que ha sido diseñado y en cuales no.
 
 Sirve para ver:
