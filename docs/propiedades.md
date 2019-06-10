@@ -1,5 +1,4 @@
-# Propiedades
-## ¿Qué es una propiedad?
+# ¿Qué es una propiedad?
 Llamamos **propiedades** a cualesquiera características macroscópicas observables.
 
 También se las conoce como:
@@ -13,19 +12,19 @@ Por ejemplo: la masa, el volumen, la presión, la temperatura..., cuyos valores 
 !!! note
     Esto de "sin tener en cuenta la historia del sistema" se entenderá mejor más tarde cuando se hable más de lo que es el Estado del sistema y se hable de Proceso.
 
-## Directamente/Indirectamente observables
-Será también propiedad del sistema a cualquier relación entre las propiedades directamente observables del mismo (ej. producto de la presión y el volumen; producto de la presión y la temperatura, etc). Tales propiedades pueden considerarse *caracterí­sticas indirectamente observables* de un sistema.
+# Propiedades indirectamente observables
+Será también propiedad del sistema cualquier relación entre las propiedades directamente observables del mismo (ej. producto de la presión y el volumen; producto de la presión y la temperatura, etc). Tales propiedades pueden considerarse *caracterí­sticas indirectamente observables* de un sistema.
 
 Teóricamente pueden definirse un gran número de propiedades, pero como se verá, sólo unas pocas resultan útiles.
 
-Hay otro tipo de propiedades de un sistema que no son directamente observables y que se deducen de los principios de la termodinámica. En las lecciones correspondientes se verá cómo se introducen la energí­a interna, la entalpí­a, la entropí­a, etc., a partir de estos principios.
+Algunas de estas propiedades se deducen de los principios de la termodinámica. En las lecciones correspondientes se verá cómo se introducen: la energí­a interna, la entalpí­a, la entropí­a, etc., a partir de estos principios.
 
-## No propiedades
+# No propiedades
 En el estudio de la termodinámica también se encuentran magnitudes que no son propiedades, porque sus valores dependen de la trayectoria seguida por el sistema, pudiendo citar entre ellas las transferencias de energí­a, como son el calor y el trabajo.
 
 No son propiedades ni el calor, ni el trabajo pues no es algo que sea propio del sistema, sino que se trata de transferencias energéticas.
 
-## Matemáticamente hablando
+# Matemáticamente hablando
 Sean:
 
 * $x_1, ..., x_n$: propiedades de un sistema que lo caracterizan (variables de estado).
@@ -68,7 +67,7 @@ La integral de $y$ dependerá de la trayectoria (integral de lí­nea).
     - $\partial y$: indicamos que $y$ **no** es propiedad.
 
 
-## Propiedades extensivas, intensivas y especí­ficas
+# Propiedades extensivas, intensivas y especí­ficas
 Las propiedades termodinámicas pueden dividirse en dos grandes grupos:
 
 * **Propiedad extensiva**: si su valor para el sistema en conjunto es la suma del valor correspondiente a cada parte en las que el sistema puede dividirse. Entre ellas se pueden citar la masa y el volumen, así­ como muchas otras que irán apareciendo.
@@ -87,9 +86,7 @@ Si el valor de una propiedad extensiva se divide entre la masa del sistema, la p
 !!! note
     El volumen especí­fico se obtiene dividiendo el volumen total del sistema (propiedad extensiva) entre la masa del mismo. Esta relación del volumen a la masa es la misma para cualquier punto de un sistema homogéneo y por tanto es una magnitud intensiva.
 
-
-
-### Matemáticamente
+## Matemáticamente
 Se puede formular todo lo dicho recurriendo al concepto de *función homogénea*.
 
 !!! note
@@ -125,8 +122,8 @@ $$
 !!! warning
     Conviene tener claro que cualquier propiedad extensiva $Y$ tiene una variable intensiva correspondiente $\frac{Y}{n}$, pero la inversa no es siempre cierta ya que variables como $T$ y $p$ no poseen sus correspondientes extensivas.
 
-### Ejemplo
-#### $Y$ extensiva
+## Ejemplo
+### $Y$ extensiva
 Supóngase que $Y$ es una propiedad extensiva dependiente de otras propiedades extensivas $X_i$. El requisito de que $Y$ sea una propiedad extensiva significa que si se duplican las $X_i$, se duplica $Y$, es decir:
 
 $$
@@ -141,7 +138,7 @@ $$
 
 en otras palabras, $Y$ es homogénea de grado uno.
 
-#### $Y$ intensiva
+### $Y$ intensiva
 Considerando que $Y$ sea una propiedad intensiva, al duplicar las $X$ se deja sin alterar la $Y$, o en general:
 
 $$
@@ -150,7 +147,7 @@ $$
 
 por lo que $Y$ es homogénea de grado cero.
 
-#### Resumiendo
+## Resumiendo
 Si $Y$ es una propiedad que depende de variables extensivas $X_i$, resultará que $Y$ será una propiedad:
 
 - *extensiva* si es homogénea de grado uno
