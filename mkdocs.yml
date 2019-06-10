@@ -9,6 +9,7 @@ theme:
 nav:
   - Termodinámica:
     - Introducción: index.md
+    - Distribución continua de la materia: distribucion_continua_materia.md
     - Conceptos: conceptos.md
     - Propiedades:
       - Introducción: propiedades.md
