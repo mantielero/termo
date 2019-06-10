@@ -5,7 +5,11 @@ El estudio de los procesos que tienen lugar en los sistemas macroscópicos, es d
 - Método estadístico.
 
 ## Método termodinámico
-Es independiente de cualesquiera modelos de la estructura de la materia (para nada requiere la existencia de átomos, moléculas, etc.). Esencialmente es un método fenomenológico, es decir, su propósito fundamental es establecer relaciones entre propiedades directamente observables (que se miden por procedimientos macroscópicos), tales como presión, volumen, temperatura, concentración de disoluciones, intensidad de campos eléctricos, y magnéticos, etc. Magnitudes asociadas con la estructura atómica y molecular de la materia (dimensiones de átomos o moléculas, su masa, etc.) no son utilizadas por el método termodinámico en la solución de problemas.
+Es independiente de cualesquiera modelos de la estructura de la materia (para nada requiere la existencia de átomos, moléculas, etc.).
+
+Es un método fenomenológico, es decir, su propósito fundamental es establecer relaciones entre propiedades directamente observables (que se miden por procedimientos macroscópicos), tales como presión, volumen, temperatura, concentración de disoluciones, intensidad de campos eléctricos, y magnéticos, etc.
+
+Magnitudes asociadas con la estructura atómica y molecular de la materia (dimensiones de átomos o moléculas, su masa, etc.) no son utilizadas por el método termodinámico en la solución de problemas.
 
 ## Método estadístico
 Se basa en la utilización de modelos atómico-moleculares. El propósito fundamental de la física estadística puede formularse como sigue: utilizando las leyes que gobiernan el comportamiento de las partículas integrantes de un determinado sistema, deduce las leyes que gobiernan el comportamiento de las magnitudes macroscópicas que definen el sistema mencionado.
@@ -26,7 +30,9 @@ Desventajas:
     Supóngase, por ejemplo, que se aplica el método termodinámico para determinar cómo un alambre de cobre se enfría cuando se somete a una rápida extensión, mientras que una banda de goma, en las mismas condiciones, se calienta. Desde un punto de vista termodinámico hay que contentarse en el hecho experimental, ya que el mecanismo físico en el que se basa este fenómeno permanece oculto. En contraste con esto, la solución de un problema particular por el método de la física estadística se basa desde el principio en conceptos atómico-moleculares, lo que permite visualizar el mecanismo del fenómeno considerado.
 
 ### Método estadístico
-El método estadístico permite, en principio, resolver problemas que no tienen solución por el método termodinámico. Los ejemplos más importantes de esta clase son la deducción de las ecuaciones de estado de sistemas macroscópicos, la teoría de capacidades térmicas, algunos problemas de la teoría de la radiación térmica, etc.
+El método estadístico permite, en principio, resolver problemas que no tienen solución por el método termodinámico.
+
+Los ejemplos más importantes de esta clase son la deducción de las ecuaciones de estado de sistemas macroscópicos, la teoría de capacidades térmicas, algunos problemas de la teoría de la radiación térmica, etc.
 
 Conviene destacar que el método estadístico permite, por un lado, una fundamentación rigurosa de las leyes de la termodinámica y por otro lado, hace posible fijar los límites de aplicabilidad de las leyes y también predecir las violaciones de la termodinámica clásica (fluctuaciones) y estimar su escala.
 
