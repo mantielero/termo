@@ -9,16 +9,6 @@ Sirve para ver:
 - cómo se puede utilizar la capacidad de transformación de la energía en el diseño de máquinas útiles.
 
 
-!!! warning
-    Mover de aquí
-
-    En el estudio de la termodinámica se considerará:
-
-    - cómo son afectadas las propiedades de un sistema por las interacciones que modifican su energía
-    - cómo la energía puede transformarse de una forma en otra
-    - qué limitaciones tienen estas transformaciones
-    - cómo se puede utilizar la capacidad de transformación de la energía en el diseño de máquinas útiles.
-
 ## Hipótesis: distribución de materia continua.
 La termodinámica no formula ninguna hipótesis respecto a la constitución del sistema. Es decir, nada estipula sobre la naturaleza de los constituyentes de la materia (moléculas, átomos, protones, etc ).
 
@@ -63,22 +53,3 @@ El método estadístico permite, en principio, resolver problemas que no tienen 
 Conviene destacar que el método estadístico permite, por un lado, una fundamentación rigurosa de las leyes de la termodinámica y por otro lado, hace posible fijar los límites de aplicabilidad de las leyes y también predecir las violaciones de la termodinámica clásica (fluctuaciones) y estimar su escala.
 
 Es claro, de lo visto antes, que ni la Termodinámica ni la Física Estadística se encuentran limitadas a un campo particular de fenómenos físicos, en contraste con la óptica, mecánica, electrodinámica y otras ramas de la física que estudian fenómenos muy definidos. Tanto la Termodinámica como la Física Estadística proporcionan los métodos más adecuados para el estudio de cualquier sistema en estado de equilibrio.
-
-## Alcance de la termodinámica
-Para hacerse una idea del alcance de la termodinámica, desde el punto de vista del ingeniero, se considerarán algunas de las áreas en las que se aplica. Entre ellas se pueden citar:
-
-- Plantas de potencia (combustibles fósiles, fisión nuclear, fusión nuclear, energía solar, geotérmica, etc. ).
-- Motores (vapor, gasolina, diesel, turbinas estacionarias y de propulsión, cohetes, etc.).
-- Sistemas de acondicionamiento de aire y refrigeración.
-- Calentadores.
-- Equipos para procesos químicos.
-- Diseño de equipos mecánicos, etc.
-
-En cualquier sistema que maneje o transforme energía, la termodinámica juega un papel fundamental.
-
-En la mayor parte de las áreas de la ingeniería el conocimiento de los conceptos termodinámicos se hace imprescindible.
-
-Para facilitar su estudio se comenzará considerando algunas definiciones y conceptos fundamentales utilizados con frecuencia en el desarrollo de esta materia.
-
-!!! warning Quitar de aquí
-    No se tiene claro que es el calor y trabajo: El estudio de cómo influyen las interacciones de calor y trabajo sobre las propiedades de estos cuerpos y cómo pueden utilizarse estos cambios de propiedades en la conversión de una forma de energía en otra y qué limitaciones tiene esta conversión, será el tema de trabajo.
