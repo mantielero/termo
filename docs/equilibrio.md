@@ -1,6 +1,4 @@
 # Equilibrio
-
-## Equilibrio
 Equilibrio termodinámico: equilibrio mecánico, equilibrio térmico, equilibrio de fase y equilibrio químico.
 
 Procedimiento: aislamos del medio ambiente. Si no cambian las propiedades, estaba en equilibrio, si no, no.
