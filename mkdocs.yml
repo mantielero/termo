@@ -10,6 +10,7 @@ nav:
   - Introducción:
     - ¿Qué es la termodinámica?: index.md
     - Distribución continua de la materia: distribucion_continua_materia.md
+    - Métodos termodinámico y estadístico: metodos_termodinamico_estadistico.md
     - Conceptos: conceptos.md
     - Propiedades:
       - Introducción: propiedades.md
