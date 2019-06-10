@@ -1,5 +1,27 @@
 # Equilibrio
 
+## Equilibrio
+Equilibrio termodinámico: equilibrio mecánico, equilibrio térmico, equilibrio de fase y equilibrio químico.
+
+Procedimiento: aislamos del medio ambiente. Si no cambian las propiedades, estaba en equilibrio, si no, no.
+
+!!! note
+    En el equilibrio, las propiedades del sistema tienen igual valor en cada fase del mismo.
+
+!!! note
+    Sólo tiene sentido hablar de propiedades del sistema cuando éste está en equilibrio.
+
+Proceso de relajación: paso de un estado de no equilibrio a uno de equilibrio ($\tau=$ tiempo de relajación = lo que dura el proceso de relajación).
+
+Modelos de procesos:
+
+- Proceso reversible: el que experimenta un sistema que mantiene el estado de equilibrio termodinámico en todo instante.
+- Proceso cuasiestático: $\tau<< t_p$, en donde, $t_p=$ tiempo del proceso. nos movemos casi en estado de equilibrio. Es el modelo a utilzar cuando un proceso es lento.
+
+!!! note  
+    En problemas, basta con definir los estados inicial y final para que podamos deducir ciertos efectos globales que ocurren durante el proceso.
+
+
 ## Introducción
 El estudio de la termodinámica clásica se centra especialmente en el estudio de los estados de equilibrio y la variación de propiedades producidas cuando un sistema pasa de un estado de equilibrio a otro.
 
