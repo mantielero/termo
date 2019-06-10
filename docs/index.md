@@ -54,7 +54,7 @@ Desventajas:
 
 - su utilización no permite poner de manifiesto el mecanismo interno de los fenómenos estudiados. La pregunta ¿por qué? carece de sentido.
 
-!!! Ejemplo
+!!! note Ejemplo
     Supóngase, por ejemplo, que se aplica el método termodinámico para determinar cómo un alambre de cobre se enfría cuando se somete a una rápida extensión, mientras que una banda de goma, en las mismas condiciones, se calienta. Desde un punto de vista termodinámico hay que contentarse en el hecho experimental, ya que el mecanismo físico en el que se basa este fenómeno permanece oculto. En contraste con esto, la solución de un problema particular por el método de la física estadística se basa desde el principio en conceptos atómico-moleculares, lo que permite visualizar el mecanismo del fenómeno considerado.
 
 

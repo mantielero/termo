@@ -1,6 +1,17 @@
 # Propiedades
 ## ¿Qué es una propiedad?
-Llamamos **propiedades** (o *Propiedades termodinámicas de un sistema* o *variables termodinámicas* o *variables de estado*) a cualesquiera características macroscópicas observables. Por ejemplo: la masa, el volumen, la presión, la temperatura..., cuyos valores numéricos pueden asignarse en un momento dado sin tener en cuenta la historia del sistema.
+Llamamos **propiedades** a cualesquiera características macroscópicas observables.
+
+También se las conoce como:
+
+- Propiedades termodinámicas de un sistema
+- Variables termodinámicas
+- Variables de estado
+
+Por ejemplo: la masa, el volumen, la presión, la temperatura..., cuyos valores numéricos pueden asignarse en un momento dado sin tener en cuenta la historia del sistema.
+
+!!! note
+    Esto de "sin tener en cuenta la historia del sistema" se entenderá mejor más tarde cuando se hable más de lo que es el Estado del sistema y se hable de Proceso.
 
 ## Directamente/Indirectamente observables
 Será también propiedad del sistema a cualquier relación entre las propiedades directamente observables del mismo (ej. producto de la presión y el volumen; producto de la presión y la temperatura, etc). Tales propiedades pueden considerarse *caracterí­sticas indirectamente observables* de un sistema.
