@@ -1,3 +1,4 @@
+# Alcance de la termodinámica
 Para hacerse una idea del alcance de la termodinámica, desde el punto de vista del ingeniero, se considerarán algunas de las áreas en las que se aplica. Entre ellas se pueden citar:
 
 - Plantas de potencia (combustibles fósiles, fisión nuclear, fusión nuclear, energía solar, geotérmica, etc. ).

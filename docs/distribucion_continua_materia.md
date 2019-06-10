@@ -1,9 +1,7 @@
 ## Hipótesis: distribución de materia continua.
-La termodinámica no formula ninguna hipótesis respecto a la constitución del sistema. Es decir, nada estipula sobre la naturaleza de los constituyentes de la materia (moléculas, átomos, protones, etc ).
+La termodinámica no formula ninguna hipótesis respecto a la constitución del sistema (no dice nada sobre la naturaleza de los constituyentes de la materia -ej. moléculas, átomos, protones, etc-).
 
-En este tema se considerará el alcance y método de la termodinámica, distinguiéndolo del que es característico de la mecánica estadística, así como un conjunto de conceptos básicos necesarios para realizar su estudio.
-
-En termodinámica se considera que la distribución de materia es continua. Se trabaja en el estadio macroscópico. Las dimensiones de los sistemas sometidos a estudio han de ser grandes respecto a las dimensiones atómicas
+En termodinámica se considera que la distribución de materia es continua. Se trabaja en el estadio macroscópico. Las dimensiones de los sistemas sometidos a estudio han de ser grandes respecto a las dimensiones atómicas:
 
 Los volúmenes mínimos pueden tender a cero (macroscópicamente hablando). Del orden de $10^{-18}$ a $10^{-18}m^3$. Esto representa el volumen de un cubo de hasta 1 micra de lado, o el de una esfera de hasta $0.6\mu m$ de radio.
 
