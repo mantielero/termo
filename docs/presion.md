@@ -50,7 +50,7 @@ Para evaluar los cambios de presión dentro del fluido (gas o líquido), en pres
 
    Elemento de columna de fluido en el campo gravitatorio
 
-![Elemento de columna de fluido en el campo gravitatorio](./img/elemento_columna.png){ align=center }
+![Elemento de columna de fluido en el campo gravitatorio](./img/elemento_columna.png){ align=center, widht=50% }
 
 
 $$
