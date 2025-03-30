@@ -43,7 +43,8 @@ markdown_extensions:
 - codehilite
 - pymdownx.details
 - pymdownx.superfences
-- pymdownx.arithmatex
+- pymdownx.arithmatex:
+      generic: true
 - mdx_math:
     enable_dollar_delimiter: true
 - attr_list
