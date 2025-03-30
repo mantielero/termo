@@ -45,6 +45,9 @@ markdown_extensions:
 - pymdownx.arithmatex
 - mdx_math:
     enable_dollar_delimiter: true
+- attr_list
+- md_in_html
+- pymdownx.blocks.caption    
 
 plugins:
 - search

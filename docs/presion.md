@@ -54,9 +54,11 @@ Para evaluar los cambios de presión dentro del fluido (gas o líquido), en pres
 
 
 $$
+\begin{align}
 p_z \delta A &= p_{z+dz} \delta A + \rho g \delta A dz\\
 p_z &= p_{z+dz} + \rho g dz\\
 -dp &= \rho g dz\\
+\end{align}
 $$
 
 en donde:
