@@ -1,7 +1,7 @@
 # Presión
 
 
-Se define la presión *p* en un punto de la superficie límite de un sistema en equilibrio, como la componente normal de la fuerza mecánica ejercida sobre la unidad de área de la superficie en el punto mencionado. Si se designa por :math:`\delta F_n` la componente normal citada y por :math:`\delta A` el elemento de superficie en el entorno del punto sobre el que se ejerce :math:`\delta F_n`, *p* vendrá dada por:
+Se define la presión *p* en un punto de la superficie límite de un sistema en equilibrio, como la componente normal de la fuerza mecánica ejercida sobre la unidad de área de la superficie en el punto mencionado. Si se designa por $\delta F_n$ la componente normal citada y por :math:`\delta A` el elemento de superficie en el entorno del punto sobre el que se ejerce :math:`\delta F_n`, *p* vendrá dada por:
 
 .. math::
 
