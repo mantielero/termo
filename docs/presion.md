@@ -33,6 +33,7 @@ $$
 
    Relación entre presión absoluta $p_a$ y presión manométrica $p_{man}$
 
+![Relación entre presión absoluta $p_a$ y presión manométrica $p_{man}$](./img/presion_absoluta_manometrica.png){ align=center }
 
 
 Es preciso insistir en que la magnitud que utiliza la termodinámica es la presión absoluta (que es la que define el estado del sistema) y no la manométrica, por lo que hay que ser muy cuidados a la hora de utilizar esta magnitud.
@@ -49,7 +50,7 @@ Para evaluar los cambios de presión dentro del fluido (gas o líquido), en pres
 
    Elemento de columna de fluido en el campo gravitatorio
 
-![Elemento de columna de fluido en el campo gravitatorio](https://dummyimage.com/600x400/eee/aaa){ align=center }
+![Elemento de columna de fluido en el campo gravitatorio](./img/elemento_columna.png){ align=center }
 
 
 $$
