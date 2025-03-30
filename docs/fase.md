@@ -14,7 +14,7 @@ Con la palabra **fase** se hace referencia a la materia que se presenta con una 
     Algo análogo podría decirse del azufre, fósforo, carbono, etc.
 
 ## Interfase
-Cuando se halla presente más de una fase, las fases están separadas mediante superficies de separación (interfases), al pasar a través de las cuales cambian bruscamente las propiedades físicas o las químicas del sistema.
+Cuando hay más de una fase, las fases están separadas mediante superficies de separación (interfases), al pasar a través de las cuales cambian bruscamente las propiedades físicas o las químicas del sistema.
 
 Los gases, en general, se mezclan en cualquier proporción para formar una sola fase.
 
@@ -35,10 +35,11 @@ Los sistemas termodinámicos constituidos por una sustancia pura se presentan co
 
 ## Resumen
 Fase
-   sustancia homogénea en todos sus puntos, tanto en composición como en estructura física. Ojo: distinta fase no implica distintos estados de agregación (ej. tipos de hielo).
+
+:   sustancia homogénea en todos sus puntos, tanto en composición como en estructura física. Ojo: distinta fase no implica distintos estados de agregación (ej. tipos de hielo).
 
 Interfase
-   superficie de separación entre fases.
+:   superficie de separación entre fases.
 
 Sustancia pura
-   aquella que tiene composición química definida. Por ejemplo: $H_2O_{(l)}+H_2O_{(v)}$, aire seco (sólo mientras esté en estado gaseoso)
+:   aquella que tiene composición química definida. Por ejemplo: $H_2O_{(l)}+H_2O_{(v)}$, aire seco (sólo mientras esté en estado gaseoso)
