@@ -100,15 +100,19 @@ $$
 pero debido a la pequeñez de esta unidad se utiliza:
 
 $$
+\begin{align}
 1 kPa &= 10^3 Pa \\
 1 MPa &= 10^6 Pa
+\end{align}
 $$
 
 Otras unidades usuales (fuera del sistema internacional):
 
 $$
+\begin{align}
 1 bar &= 10^5 Pa \\
 1 psi &= 6894.76 Pa
+\end{align}
 $$
 
 La presión atmosférica estándar es:
