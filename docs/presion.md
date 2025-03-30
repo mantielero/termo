@@ -49,6 +49,8 @@ Para evaluar los cambios de presión dentro del fluido (gas o líquido), en pres
 
    Elemento de columna de fluido en el campo gravitatorio
 
+![Elemento de columna de fluido en el campo gravitatorio](https://dummyimage.com/600x400/eee/aaa){ align=center }
+
 
 $$
 p_z \delta A &= p_{z+dz} \delta A + \rho g \delta A dz\\
