@@ -1,6 +1,5 @@
 # Presión
 
-
 Se define la presión *p* en un punto de la superficie límite de un sistema en equilibrio, como la componente normal de la fuerza mecánica ejercida sobre la unidad de área de la superficie en el punto mencionado. Si se designa por $\delta F_n$ la componente normal citada y por $\delta A$ el elemento de superficie en el entorno del punto sobre el que se ejerce $\delta F_n$, *p* vendrá dada por:
 
 $$
@@ -27,9 +26,7 @@ $$
 p_a = p_{man}+p_{atm}
 $$
 
-
 ![Relación entre presión absoluta $p_a$ y presión manométrica $p_{man}$](./img/presion_absoluta_manometrica.png){ align=center,  style="transform: scale(0.7);" }
-
 
 
 Es preciso insistir en que la magnitud que utiliza la termodinámica es la presión absoluta (que es la que define el estado del sistema) y no la manométrica, por lo que hay que ser muy cuidados a la hora de utilizar esta magnitud.
@@ -40,11 +37,6 @@ La determinación de la presión mediante la lectura de una columna de líquido,
 
 Para evaluar los cambios de presión dentro del fluido (gas o líquido), en presencia del campo gravitatorio, se hace un balance de fuerzas en un elemento de la columna fluida:
 
-.. figure:: ./img/elemento_columna.png
-   :width: 50%
-   :align: center
-
-   Elemento de columna de fluido en el campo gravitatorio
 
 ![Elemento de columna de fluido en el campo gravitatorio](./img/elemento_columna.png){ align=center, style="transform: scale(0.5);" }
 
@@ -74,18 +66,13 @@ Esta ecuación define la diferencia de presión entre dos puntos de una columna 
 
 Cuando la presión del recinto en el que se efectúa la medición es inferior a la atmosférica, se suele hablar de presión de vacío:
 
-.. figure:: ./img/relacion_presiones.png
-   :width: 70%
-   :align: center
-
-   Relación entre las presiones absoluta, manomètrica y de vacío
+![Relación entre las presiones absoluta, manométrica y de vacío](./img/relacion_presiones.png){ align=center, style="transform: scale(0.7);" }
 
 
 Presión de vacío: es la presión manométrica cuando la presión absoluta es la atmosférica.
 
 
-Unidades
---------
+## Unidades
 
 En el sistema internacional la presión se expresa en pascales:
 
