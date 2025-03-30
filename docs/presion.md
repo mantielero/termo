@@ -27,13 +27,9 @@ $$
 p_a = p_{man}+p_{atm}
 $$
 
-.. figure:: ./img/presion_absoluta_manometrica.png
-   :width: 70%
-   :align: center
 
-   Relación entre presión absoluta $p_a$ y presión manométrica $p_{man}$
+![Relación entre presión absoluta $p_a$ y presión manométrica $p_{man}$](./img/presion_absoluta_manometrica.png){ align=center,  style="transform: scale(0.7);" }
 
-![Relación entre presión absoluta $p_a$ y presión manométrica $p_{man}$](./img/presion_absoluta_manometrica.png){ align=center }
 
 
 Es preciso insistir en que la magnitud que utiliza la termodinámica es la presión absoluta (que es la que define el estado del sistema) y no la manométrica, por lo que hay que ser muy cuidados a la hora de utilizar esta magnitud.
